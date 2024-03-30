@@ -1,0 +1,50 @@
+[
+    {
+        "category": "Art History ",
+        "name": "Steel Metal Bottle 600 ML",
+        "authorName": "Henry",
+        "title": "The Story of Art by E.H. Gombrich",
+        "stock": 20,
+        "ratings": 5,
+        "ratingsCount": 83,
+        "img": "https://i.ibb.co/jrqD0nv/istockphoto-1092170968-612x612.jpg",
+        "shipping": 6,
+        "quantity": 0
+    },
+    {
+        "category": "Mistry ",
+        "name": "Squad Glass Bottle 720 ML",
+        "authorName": "Jack",
+        "title": "The Girl with the Dragon Tatto by Stieg Larsson",
+        "stock": 20,
+        "ratings": 3,
+        "ratingsCount": 1,
+        "img": "https://i.ibb.co/0r8bbTF/mistry.jpg",
+        "shipping": 5,
+        "quantity": 0
+    },
+    {
+        "category": "Drawing ",
+        "name": "Steel Bottle 600 ML",
+        "authorName": "Daniel",
+        "title": "Drawing on the Right Side of the Brain",
+        "stock": 11,
+        "ratings": 5,
+        "ratingsCount": 35,
+        "img": "https://i.ibb.co/1TXcLLM/drowing.webp",
+        "shipping": 5,
+        "quantity": 0
+    },
+    {
+        "category": "Fashion ",
+        "name": "Steel Metal Bottle 2L",
+        "authorName": "William",
+        "title":" The Fashion Book by Editors of Phaidon",
+        "stock": 14,
+        "ratings": 4,
+        "ratingsCount": 68,
+        "img": "https://i.ibb.co/b2fDzHk/fashion.png",
+        "shipping": 27,
+        "quantity": 0
+    }
+]
